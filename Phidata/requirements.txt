@@ -1,0 +1,7 @@
+phidata
+python-dotenv
+groq
+yfinance
+duckduckgo-search
+googlesearch-python 
+pycountry
